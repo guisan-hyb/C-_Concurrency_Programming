@@ -1,0 +1,65 @@
+# ========== Visual Studio 2022 ==========
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.userprefs
+
+# ========== C++ 编译输出 ==========
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+[Ww][Ii][Nn]32/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+
+# ========== 编译产生的文件 ==========
+*.obj
+*.pdb
+*.ipdb
+*.iobj
+*.exe
+*.dll
+*.lib
+*.exp
+*.idb
+*.ilk
+*.tlog
+*.lastbuildstate
+*.unsuccessfulbuild
+*.cache
+*.opendb
+*.opensdf
+*.sdf
+*.aps
+
+# ========== 资源与项目临时文件 ==========
+*.rsuser
+*.suo
+*.aps
+*.vc.db
+*.vc.opendb
+*.vspscc
+*.vssscc
+
+# ========== CMake（如果你用 CMake） ==========
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+*.cmake
+
+# ========== 系统文件 ==========
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+.DS_Store
