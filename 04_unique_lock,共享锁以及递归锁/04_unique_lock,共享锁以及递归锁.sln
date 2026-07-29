@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36221.1 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "04_unique_lock,共享锁以及递归锁", "04_unique_lock,共享锁以及递归锁\04_unique_lock,共享锁以及递归锁.vcxproj", "{B8D4813F-C198-4E16-A6CC-1D4899FEDE88}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B8D4813F-C198-4E16-A6CC-1D4899FEDE88}.Debug|x64.ActiveCfg = Debug|x64
+		{B8D4813F-C198-4E16-A6CC-1D4899FEDE88}.Debug|x64.Build.0 = Debug|x64
+		{B8D4813F-C198-4E16-A6CC-1D4899FEDE88}.Debug|x86.ActiveCfg = Debug|Win32
+		{B8D4813F-C198-4E16-A6CC-1D4899FEDE88}.Debug|x86.Build.0 = Debug|Win32
+		{B8D4813F-C198-4E16-A6CC-1D4899FEDE88}.Release|x64.ActiveCfg = Release|x64
+		{B8D4813F-C198-4E16-A6CC-1D4899FEDE88}.Release|x64.Build.0 = Release|x64
+		{B8D4813F-C198-4E16-A6CC-1D4899FEDE88}.Release|x86.ActiveCfg = Release|Win32
+		{B8D4813F-C198-4E16-A6CC-1D4899FEDE88}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {70CB0E47-2527-4669-A6DB-0D25437A8CB2}
+	EndGlobalSection
+EndGlobal
